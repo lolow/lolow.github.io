@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Laurent Drouet</title>
+    <link>/tags/tips/</link>
+    <description>Recent content in Tips on Laurent Drouet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017&amp;dash;2018 Laurent Drouet</copyright>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSH tips &amp; tricks</title>
+      <link>/post/ssh_tips_tricks/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/post/ssh_tips_tricks/</guid>
+      <description>SSH client setup
+First, you can edit the file .ssh/config in order to define server shortcuts and default options. The file below define server1 as a standard SSH server, server2 as a server using a non-default port, server3 where the server is accessed via an ssh jump by server2.
+Host * Compression yes PreferredAuthentications publickey,password Protocol 2 Host server1 Hostname server1.com User user1 Host server2 Hostname server2.com User user2 Port 653737 Host server3 Hostname server3 User user3 ProxyCommand ssh server2 nc %h %p  First, we need to create our own encryption key.</description>
+    </item>
+    
+  </channel>
+</rss>

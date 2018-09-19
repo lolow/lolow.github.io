@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Laurent Drouet</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Laurent Drouet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017&amp;dash;2018 Laurent Drouet</copyright>
+    <lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Studying the impact of urban sustainable transportation on Lisbon air quality</title>
+      <link>/publication/lisbon_air_quality/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lisbon_air_quality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

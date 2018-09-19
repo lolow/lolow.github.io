@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Laurent Drouet</title>
+    <link>/publication_types/6/</link>
+    <description>Recent content in 6 on Laurent Drouet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017&amp;dash;2018 Laurent Drouet</copyright>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Game of International Climate Policy Solved by a Homogeneous Oracle-Based Method for Variational Inequalities</title>
+      <link>/publication/homogeneous_oracle/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/homogeneous_oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Oracle Method to Couple Climate and Economic Dynamics</title>
+      <link>/publication/oracle_climate_economics/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/oracle_climate_economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Coupled Bottom-Up/Top-Down Model for GHG Abatement Scenarios in the Swiss Housing Sector</title>
+      <link>/publication/coupling_bu_td/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/coupling_bu_td/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
