@@ -11,6 +11,36 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Country-level Social Cost of Carbon</title>
+      <link>/publication/country-level_scc/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/country-level_scc/</guid>
+      <description>&lt;p&gt;In this study, we have generated the Social Cost of Carbon of all
+countries using different socio-economic, climatic or damage assumptions.
+This is a large database. So, I developed an online interactive tool
+to explore it. This tool is available at
+&lt;a href=&#34;https://country-level-scc.github.io/explorer&#34; target=&#34;_blank&#34;&gt;https://country-level-scc.github.io/explorer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&#34;https://country-level-scc.github.io/explorer&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;/img/cscc_explorer.gif&#34; /&gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The Country-level Social Cost of Carbon explorer&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Additionnaly, a website gathers
+all the material related to this paper at &lt;a href=&#34;https://country-level-scc.github.io&#34; target=&#34;_blank&#34;&gt;https://country-level-scc.github.io&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
@@ -189,15 +219,6 @@ ProxyCommand ssh server2 nc %h %p
       <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/airpollution_limits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Setting the System Boundaries of “Energy for Water” for Integrated Modeling</title>
-      <link>/publication/energy_water_limits/</link>
-      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/energy_water_limits/</guid>
       <description></description>
     </item>
     

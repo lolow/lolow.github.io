@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Country-level Social Cost of Carbon</title>
+      <link>/publication/country-level_scc/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/country-level_scc/</guid>
+      <description>In this study, we have generated the Social Cost of Carbon of all countries using different socio-economic, climatic or damage assumptions. This is a large database. So, I developed an online interactive tool to explore it. This tool is available at https://country-level-scc.github.io/explorer.
+  The Country-level Social Cost of Carbon explorer   Additionnaly, a website gathers all the material related to this paper at https://country-level-scc.github.io.</description>
+    </item>
+    
+    <item>
       <title>Residual fossil CO2 emissions in 1.5–2°C pathways</title>
       <link>/publication/advance_lt/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
