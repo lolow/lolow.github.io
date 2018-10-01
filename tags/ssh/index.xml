@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ssh on Laurent Drouet</title>
+    <title>ssh on Laurent Drouet</title>
     <link>/tags/ssh/</link>
-    <description>Recent content in Ssh on Laurent Drouet</description>
+    <description>Recent content in ssh on Laurent Drouet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017&amp;dash;2018 Laurent Drouet</copyright>
