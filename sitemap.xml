@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>/publication/effot_sharing_approach/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/techno-economic-assumptions/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/neatwork/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/global_aqi/</loc>
       <lastmod>2018-10-11T00:00:00+00:00</lastmod>
     </url>
@@ -21,7 +45,7 @@
     <url>
     
       <loc>/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -29,7 +53,7 @@
     <url>
     
       <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -77,7 +101,7 @@
     <url>
     
       <loc>/post/ssh_tips_tricks/</loc>
-      <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-02T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -100,39 +124,7 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/ssp_airpollution/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -150,6 +142,38 @@
     
       <loc>/publication/ssp_overview/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -189,7 +213,7 @@
     <url>
     
       <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -197,7 +221,7 @@
     <url>
     
       <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -205,7 +229,7 @@
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -334,7 +358,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -352,7 +376,7 @@
     <url>
     
       <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -369,7 +393,7 @@
     <url>
     
       <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -378,7 +402,7 @@
     <url>
     
       <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -387,7 +411,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -396,7 +420,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -429,7 +453,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -438,7 +462,7 @@
     <url>
     
       <loc>/tags/ssh/</loc>
-      <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -447,7 +471,7 @@
     <url>
     
       <loc>/tags/tips/</loc>
-      <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

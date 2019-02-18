@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017&amp;dash;2018 Laurent Drouet</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implications of various effort-sharing approaches for national carbon budgets and emission pathways</title>
+      <link>/publication/effot_sharing_approach/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/effot_sharing_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking under the hood: A comparison of techno-economic assumptions across national and global integrated assessment models</title>
+      <link>/publication/techno-economic-assumptions/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/techno-economic-assumptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeatWork, a tool for the design of gravity-driven water distribution systems for poor rural communities</title>
+      <link>/publication/neatwork/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/neatwork/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Future Global Air Quality Indices under Different Socioeconomic and Climate Assumptions</title>
