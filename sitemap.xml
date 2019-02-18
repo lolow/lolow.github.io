@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/publication/effot_sharing_approach/</loc>
+      <loc>/publication/neatwork/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -13,15 +13,7 @@
     <url>
     
       <loc>/publication/techno-economic-assumptions/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/neatwork/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -404,6 +396,13 @@
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/effot_sharing_approach/</loc>
     </url>
     
   
