@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017&amp;dash;2018 Laurent Drouet</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implications of various effort-sharing approaches for national carbon budgets and emission pathways</title>
+      <link>/publication/effot_sharing_approach/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/effot_sharing_approach/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Looking under the hood: A comparison of techno-economic assumptions across national and global integrated assessment models</title>
@@ -254,15 +263,6 @@ Online explorer In this study, we have generated the Social Cost of Carbon of al
       <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
       
       <guid>/publication/coupling_cba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implications of various effort-sharing approaches for national carbon budgets and emission pathways</title>
-      <link>/publication/effot_sharing_approach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/effot_sharing_approach/</guid>
       <description></description>
     </item>
     
